@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sanyog Jain and I'm a aspiring Data Scientist. I'm from India and am currently a final year Computer Engineering Diploma student at Vidyalankar Polytechnic. You can find me on [Twitter][1],  or on [LinkedIn][3].
+My name is Sanyog Jain and I'm a aspiring Data Scientist. I'm from India and am currently a second year Computer Engineering student at Vidyalankar Institute of Technology. You can find me on [Twitter][1],  or on [LinkedIn][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 

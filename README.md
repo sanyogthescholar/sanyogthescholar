@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/sanyogthescholar/sanyogthescholar/raw/master/Sanyog.jpg "Header")](https://sanyogjain.tech/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 My name is Sanyog Jain and I'm a aspiring Data Scientist. I'm from India and am currently a second year Computer Engineering student at Vidyalankar Institute of Technology. You can find me on [Twitter][1],  or on [LinkedIn][3].
 
